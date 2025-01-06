@@ -18,6 +18,8 @@
 - **ReactJS**: For building the user interface.
 - **State Management**: Handled with React's useState and useEffect hooks.
 - **CSS**: For styling.
+  
+![quizapp ss](https://github.com/user-attachments/assets/ca5f7980-8fa8-4f56-a103-391fcfd18572)
 
 📋 **How to Run the Project**
 - Clone the repository:
