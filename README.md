@@ -1,5 +1,5 @@
 🎯 **QuizApp**
-# A ReactJS-based web application for solving multiple-choice questions (MCQs) with real-time scoring and a user-friendly interface.
+** A ReactJS-based web application for solving multiple-choice questions (MCQs) with real-time scoring and a user-friendly interface.
 
 ✨ **Features**
 - **Interactive Quiz**: Users answer one question at a time.
@@ -21,7 +21,7 @@
  
 
 📋 **How to Run the Project**
-1.**Clone the repository**:
-# <button onclick="navigator.clipboard.writeText('git clone https://github.com/your-username/quizapp.git')">Copy Code</button>
+1.**Clone the repository:
+**<button onclick="navigator.clipboard.writeText('git clone https://github.com/your-username/quizapp.git')">Copy Code</button>
 
 
