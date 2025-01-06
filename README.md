@@ -7,6 +7,7 @@ Option Selection Validation: Prevents moving to the next question without select
 Dynamic Scoring: Real-time score updates using a state variable.
 Final Score Display: Shows the total score after completing all questions.
 User-Friendly Interface: Intuitive and smooth user experience.
+
 🚀 How It Works
 Start the Quiz:
 The quiz begins with the first question displayed.
@@ -17,10 +18,12 @@ Score Calculation:
 Scores are updated dynamically based on correct answers.
 Final Score:
 The application displays the total score after all questions are answered.
+
 🛠️ Technologies Used
 ReactJS: For building the user interface.
 State Management: Handled with React's useState and useEffect hooks.
 CSS: For styling.
+
 📋 How to Run the Project
 Clone the repository:
 bash
