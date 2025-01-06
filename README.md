@@ -9,15 +9,11 @@ Final Score Display: Shows the total score after completing all questions.
 User-Friendly Interface: Intuitive and smooth user experience.
 
 🚀 How It Works
-Start the Quiz:
-The quiz begins with the first question displayed.
-Option Selection:
-Users must select an option to enable the "Next" button.
+Start the Quiz: The quiz begins with the first question displayed.
+Option Selection: Users must select an option to enable the "Next" button.
 If no option is selected, users cannot proceed.
-Score Calculation:
-Scores are updated dynamically based on correct answers.
-Final Score:
-The application displays the total score after all questions are answered.
+Score Calculation: Scores are updated dynamically based on correct answers.
+Final Score: The application displays the total score after all questions are answered.
 
 🛠️ Technologies Used
 ReactJS: For building the user interface.
